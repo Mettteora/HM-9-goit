@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Mettteora.github.io/ HM-9-goit",
+  "homepage": "https://Mettteora.github.io/HM-9-goit",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url / HM-9-goit/"
+    "build": "parcel build src/*.html --public-url /HM-9-goit/"
   },
   "repository": {
     "type": "git",
